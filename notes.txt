@@ -1,0 +1,3 @@
+Manim - mathematical animations library
+
+Manim community edition
