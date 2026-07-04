@@ -10,6 +10,5 @@ File mtimes indicate latest activity around 2026-04-17T10:37:42+08:00.
 - **Repository Size:** 9 tracked files
 - **Latest Update:** `4dee622 chore: add stale issue and PR validators`
 
-
 ---
 *☕ If you found this project useful, you can support my work at [kape.stimmie.dev](https://kape.stimmie.dev)!*
